@@ -11,6 +11,13 @@
 ใช้คำนวณราคาสินค้า 
 
 
+classDiagram
+    class BankAccount
+    BankAccount : +String owner
+    BankAccount : +Bigdecimal balance
+    BankAccount : +deposit(amount)
+    BankAccount : +withdrawl(amount)
+    
 
 # ชื่อของผู้พัฒนาโปรแกรม
 นาย ศุภชัย แสนประสิทธิ์ รหัสนศ.643450332-7

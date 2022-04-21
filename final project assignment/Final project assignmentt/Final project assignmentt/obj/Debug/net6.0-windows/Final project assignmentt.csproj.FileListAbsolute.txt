@@ -1,0 +1,17 @@
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\bin\Debug\net6.0-windows\Final project assignmentt.exe
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\bin\Debug\net6.0-windows\Final project assignmentt.deps.json
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\bin\Debug\net6.0-windows\Final project assignmentt.runtimeconfig.json
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\bin\Debug\net6.0-windows\Final project assignmentt.dll
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\bin\Debug\net6.0-windows\Final project assignmentt.pdb
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final_project_assignmentt.Form1.resources
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.AssemblyInfo.cs
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.dll
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\refint\Final project assignmentt.dll
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.pdb
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\Final project assignmentt.genruntimeconfig.cache
+C:\Users\Admins\source\repos\final project assignment\final project assignment\Final project assignmentt\Final project assignmentt\obj\Debug\net6.0-windows\ref\Final project assignmentt.dll
